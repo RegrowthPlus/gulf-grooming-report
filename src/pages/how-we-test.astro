@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { siteConfig } from '../../site.config';
+---
+
+<BaseLayout title="How We Test" description="Our product testing methodology. How Gulf Grooming Report evaluates grooming products in real Gulf conditions.">
+  <Header />
+
+  <main class="static-page">
+    <div class="container">
+      <Breadcrumbs items={[{ name: 'How We Test' }]} />
+
+      <h1>How We Test</h1>
+
+      <section class="page-section">
+        <h2>Our Testing Philosophy</h2>
+        <p>Most product reviews are written by people who received free samples, used them for a week, and wrote up their impressions. That's not what we do.</p>
+        <p>Every product featured in a {siteConfig.name} ranking has been purchased at retail price and tested in the conditions you actually live in: Gulf tap water, Gulf humidity, Gulf heat. We don't test in a lab. We test in real bathrooms with real water.</p>
+      </section>
+
+      <section class="page-section">
+        <h2>Testing Standards</h2>
+        <ul>
+          <li><strong>No free products</strong> - We buy everything ourselves. No brand sends us products in exchange for coverage. This keeps our verdicts honest.</li>
+          <li><strong>Minimum four-week testing period</strong> - Grooming products need time to show real results. A one-week trial tells you about texture and scent. A four-week trial tells you whether the product actually works.</li>
+          <li><strong>Gulf water conditions</strong> - All products are tested in hard water typical of the Gulf region (TDS 350-500+ ppm). Results from testing in soft European water don't apply here.</li>
+          <li><strong>Controlled comparison</strong> - When testing multiple products in a category, we use rotation schedules so each product gets equal time in comparable conditions.</li>
+          <li><strong>Consistent evaluation criteria</strong> - Every product in a category is judged on the same set of criteria, defined before testing begins.</li>
+        </ul>
+      </section>
+
+      <section class="page-section">
+        <h2>What We Evaluate</h2>
+        <p>The specific criteria depend on the product category, but our standard framework includes:</p>
+        <ul>
+          <li><strong>Effectiveness</strong> - Does the product do what it claims? This is always the primary criterion.</li>
+          <li><strong>Gulf performance</strong> - How does it perform specifically in hard water, high humidity, and extreme heat?</li>
+          <li><strong>User experience</strong> - Texture, scent, ease of application, drying time. The practical details that matter daily.</li>
+          <li><strong>Ingredient quality</strong> - We examine the formulation. Active ingredients, potential irritants, and concentration where available.</li>
+          <li><strong>Value</strong> - Cost per use based on Gulf retail pricing. An expensive product that outperforms isn't automatically worse value than a cheap one that doesn't work.</li>
+          <li><strong>Availability</strong> - Can you actually buy it in the Gulf? Products that require international shipping with long delivery times are noted as such.</li>
+        </ul>
+      </section>
+
+      <section class="page-section">
+        <h2>Who Does the Testing</h2>
+        <p>Product testing is led by James Croft, our grooming products reviewer, who spent five years in consumer goods before moving to independent review writing. His background in product development and quality assurance informs a systematic testing approach.</p>
+        <p>For categories outside his primary expertise, other members of the editorial team contribute testing observations. All testers are identified by name in the review article.</p>
+      </section>
+
+      <section class="page-section">
+        <h2>How We Handle Affiliate Links</h2>
+        <p>Some of our product recommendations include affiliate links. This means we may earn a small commission if you purchase through our link. The price you pay is the same either way.</p>
+        <p>Affiliate relationships never influence our testing process, our rankings, or our verdicts. Many products in our rankings have no affiliate program at all. We include them because they deserve to be there based on performance.</p>
+        <p>For full details, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</p>
+      </section>
+
+      <section class="page-section">
+        <h2>Updates and Retesting</h2>
+        <p>Product formulations change. Availability shifts. New competitors enter the market. We periodically retest and update our rankings to reflect current conditions. Updated articles display both the original publication date and the most recent update date.</p>
+        <p>If you notice that a product we've recommended has changed its formulation or availability, let us know at <strong>editorial@gulfgrooming.com</strong>.</p>
+      </section>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .static-page {
+    padding: var(--space-xl) 0 var(--space-3xl);
+  }
+
+  h1 {
+    font-family: var(--font-heading);
+    font-size: 2.25rem;
+    margin-bottom: var(--space-xl);
+  }
+
+  .page-section {
+    margin-bottom: var(--space-2xl);
+    max-width: 700px;
+  }
+
+  .page-section h2 {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    margin-bottom: var(--space-md);
+  }
+
+  .page-section p,
+  .page-section li {
+    color: var(--color-text);
+    line-height: 1.7;
+  }
+
+  .page-section ul {
+    padding-left: 1.5em;
+    margin-bottom: 1.5em;
+  }
+
+  .page-section li {
+    margin-bottom: 0.75em;
+  }
+
+  .page-section a {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+
+  .page-section a:hover {
+    color: var(--color-primary-dark);
+  }
+
+  @media (min-width: 1025px) {
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+</style>

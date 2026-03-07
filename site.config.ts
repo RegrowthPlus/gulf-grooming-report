@@ -1,66 +1,64 @@
 export const siteConfig = {
   // Identity
-  name: "Gulf Health Science",
-  tagline: "Where Research Meets Real-World Impact",
-  domain: "https://gulfhealthscience.org",
+  name: "Gulf Grooming Report",
+  tagline: "Tested Advice for Men in the Gulf",
+  domain: "https://gulfgrooming.com",
   language: "en",
   timezone: "Asia/Dubai",
 
   // Template variant
-  variant: "healthline" as const, // "healthline" | "wirecutter"
+  variant: "wirecutter" as const, // "healthline" | "wirecutter"
 
   // Brand colors
   colors: {
-    primary: "#0d9488",
-    primaryDark: "#0f766e",
-    text: "#1a1a1a",
-    textMuted: "#6b7280",
-    background: "#ffffff",
-    surface: "#f9fafb",
-    border: "#e5e7eb",
+    primary: "#1B2D4F",
+    primaryDark: "#111D33",
+    text: "#1A1A1A",
+    textMuted: "#555555",
+    background: "#F7F6F3",
+    surface: "#EEECEA",
+    border: "#D8D4CE",
   },
 
   // Typography
   fonts: {
-    heading: "DM Serif Display",
-    body: "Inter",
+    heading: "Playfair Display",
+    body: "Source Sans 3",
     mono: "JetBrains Mono",
   },
 
   // Navigation categories
   categories: [
     {
-      name: "Hard Water",
-      slug: "hard-water",
-      description: "Understanding hard water effects on hair, scalp, and skin in the Gulf region.",
-      megaMenuItems: ["Effects on Hair", "Water Quality Testing", "Solutions"],
+      name: "Hair Loss & Thinning",
+      slug: "hair-loss-thinning",
+      description: "Minoxidil, finasteride, PRP, DHT blockers, hair transplants, and everything men in the Gulf need to know about slowing and reversing hair loss.",
     },
     {
-      name: "Hair Nutrition",
-      slug: "hair-nutrition",
-      description: "Evidence-based guidance on nutrients, ingredients, and dietary factors for hair health.",
-      megaMenuItems: ["Essential Oils", "Vitamins", "Diet & Hair"],
+      name: "Grooming Routines",
+      slug: "grooming-routines",
+      description: "Practical daily systems for men living in hot, hard water climates. Beard care, morning routines, and scalp maintenance.",
     },
     {
-      name: "Hair Growth",
-      slug: "hair-growth",
-      description: "Research-backed treatments, solutions, and products for hair growth.",
-      megaMenuItems: ["Treatments", "Product Reviews", "Before & After"],
+      name: "Products We've Tested",
+      slug: "products-we-tested",
+      description: "Shampoos, scalp scrubs, moisturisers, and styling products tested in Gulf conditions. Clear verdicts, no affiliate pressure.",
     },
     {
-      name: "Scalp Health",
-      slug: "scalp-health",
-      description: "Scalp conditions, treatments, and maintenance for healthy hair foundations.",
-      megaMenuItems: ["Dandruff", "Scalp Buildup", "Chelating Treatments"],
+      name: "Skin & Body",
+      slug: "skin-body",
+      description: "Sun protection, workout skincare, and humidity-proof routines for men dealing with extreme heat.",
     },
-  ],
-
-  // Trust signals (Healthline variant)
-  trustSignals: [
-    { icon: "search", text: "Board-certified reviewers" },
-    { icon: "award", text: "Evidence-based content" },
-    { icon: "users", text: "Trusted by thousands" },
-    { icon: "check", text: "Independently reviewed" },
+    {
+      name: "Gulf-Specific Advice",
+      slug: "gulf-specific",
+      description: "Hard water, TDS levels, climate adaptation, water testing, and the environmental factors that make grooming in the Gulf different.",
+    },
+    {
+      name: "Health & Performance",
+      slug: "health-performance",
+      description: "Vitamin D, sleep, cortisol, iron, nutrition, and the health factors that show up in your hair and skin.",
+    },
   ],
 
   // Social links
@@ -72,7 +70,7 @@ export const siteConfig = {
   },
 
   // Affiliate disclosure
-  disclosureText: "When you buy through our links, we may earn a commission. This does not influence our editorial independence.",
+  disclosureText: "When you buy through our links, we may earn a commission. This does not influence our testing process or editorial verdicts.",
 
   // Analytics
   analyticsId: "",

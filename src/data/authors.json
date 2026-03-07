@@ -1,25 +1,38 @@
 {
-  "sarah-mitchell": {
-    "name": "Dr. Sarah Mitchell",
-    "slug": "sarah-mitchell",
-    "title": "Health Science Editor",
-    "photo": "/images/authors/sarah-mitchell.webp",
-    "bio": "Dr. Sarah Mitchell holds a Ph.D. in Dermatological Sciences and has spent over a decade researching the effects of environmental factors on hair and skin health. She specializes in mineral-related scalp conditions and water quality impacts on personal care. Her work has been cited in peer-reviewed trichology journals.",
-    "credentials": "Ph.D. Dermatological Sciences, Certified Trichology Researcher",
-    "expertise": ["Dermatological Sciences", "Trichology", "Water Quality & Hair Health"],
-    "isReviewer": true,
+  "marcus-webb": {
+    "name": "Marcus Webb",
+    "slug": "marcus-webb",
+    "title": "Editor-in-Chief",
+    "photo": "/images/authors/marcus-webb.webp",
+    "bio": "Marcus Webb spent a decade writing about men's style and grooming for UK print and digital publications before relocating to the Gulf. The first thing he noticed after moving was that his entire grooming routine stopped working. Products that had been reliable for years started underperforming, and his hair began thinning in ways it never had in London. That experience became the founding idea for Gulf Grooming Report: an honest, tested resource for men dealing with the Gulf's specific climate and water challenges. He runs all editorial operations and personally tests every product featured in the site's major guides.",
+    "credentials": "Former contributing editor UK men's lifestyle publishing, 9 years covering men's grooming and personal care, Gulf resident since 2017",
+    "expertise": ["Men's Grooming", "Hair Loss", "Product Testing", "Gulf-Specific Challenges"],
+    "isReviewer": false,
     "social": {
       "linkedin": ""
     }
   },
-  "james-walker": {
-    "name": "James Walker",
-    "slug": "james-walker",
-    "title": "Wellness & Nutrition Writer",
-    "photo": "/images/authors/james-walker.webp",
-    "bio": "James Walker is a health and wellness journalist with eight years of experience covering nutrition science, natural remedies, and evidence-based hair care. He focuses on translating complex research into practical guidance for everyday readers.",
-    "credentials": "B.Sc. Nutrition Science, Health Journalism Certificate",
-    "expertise": ["Nutrition Science", "Natural Remedies", "Hair Care"],
+  "tariq-al-rashid": {
+    "name": "Tariq Al-Rashid",
+    "slug": "tariq-al-rashid",
+    "title": "Health and Wellness Writer",
+    "photo": "/images/authors/tariq-al-rashid.webp",
+    "bio": "Tariq Al-Rashid covers the clinical and scientific side of men's hair and wellness without making it feel like a medical journal. He spent three years researching his own hair loss before finding an approach that worked, and that experience informs how he writes: he assumes his reader is intelligent, skeptical, and tired of vague advice. He covers treatments, ingredients, and procedures, translating the science into practical decisions.",
+    "credentials": "Health journalism background, regional fitness and men's health publications, personal history with hair thinning and treatment research",
+    "expertise": ["Hair Loss Treatments", "Minoxidil & Finasteride", "PRP & DHT Science", "Men's Health"],
+    "isReviewer": false,
+    "social": {
+      "linkedin": ""
+    }
+  },
+  "james-croft": {
+    "name": "James Croft",
+    "slug": "james-croft",
+    "title": "Grooming Products Reviewer",
+    "photo": "/images/authors/james-croft.webp",
+    "bio": "James Croft spent five years working inside consumer goods companies before deciding the most useful thing he could do was test products honestly for people who don't have time to do it themselves. He reviews shampoos, skincare, grooming tools, and personal care products with the systematic approach of someone who once wrote the QA protocols. No affiliate pressure, no brand relationships, just verdicts.",
+    "credentials": "Five years in consumer goods (product development, QA), independent review writer",
+    "expertise": ["Product Testing", "Ingredient Analysis", "Grooming Tools", "Shampoos & Scalp Care"],
     "isReviewer": false,
     "social": {
       "linkedin": ""
