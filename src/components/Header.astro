@@ -101,6 +101,7 @@ const isWirecutter = siteConfig.variant === 'wirecutter';
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: var(--space-lg);
     height: 64px;
   }
 
@@ -392,21 +393,21 @@ const isWirecutter = siteConfig.variant === 'wirecutter';
     }
   }
 
-  /* WC variant: tighter nav at desktop to fit 6 categories + logo */
+  /* WC variant: scale logo + nav progressively to fit 6 categories */
   @media (min-width: 1025px) {
     .wc-header .nav-link {
-      padding: 0 0.5rem;
-      font-size: 0.75rem;
+      padding: 0 0.625rem;
+      font-size: 0.8125rem;
     }
 
     .wc-header .logo-text {
-      font-size: 1.25rem;
+      font-size: 1.125rem;
     }
   }
 
-  @media (min-width: 1200px) {
+  @media (min-width: 1280px) {
     .wc-header .nav-link {
-      padding: 0 0.625rem;
+      padding: 0 0.75rem;
       font-size: 0.8125rem;
     }
 
@@ -415,14 +416,14 @@ const isWirecutter = siteConfig.variant === 'wirecutter';
     }
   }
 
-  @media (min-width: 1400px) {
+  @media (min-width: 1440px) {
     .wc-header .nav-link {
-      padding: 0 0.875rem;
+      padding: 0 1rem;
       font-size: 0.875rem;
     }
 
     .wc-header .logo-text {
-      font-size: 1.75rem;
+      font-size: 1.5rem;
     }
   }
 </style>
