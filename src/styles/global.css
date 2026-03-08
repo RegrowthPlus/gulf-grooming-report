@@ -318,6 +318,10 @@ blockquote {
   .container {
     padding: 0 0.75rem;
   }
+
+  body {
+    font-size: 0.9375rem;
+  }
 }
 
 @media (min-width: 1025px) {

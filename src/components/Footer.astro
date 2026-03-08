@@ -242,5 +242,21 @@ const isWirecutter = siteConfig.variant === 'wirecutter';
       gap: var(--space-md);
       text-align: center;
     }
+
+    .newsletter-form {
+      max-width: 100%;
+    }
+
+    .newsletter-form button {
+      padding: 0.75rem 1rem;
+      font-size: 0.8125rem;
+    }
+  }
+
+  @media (max-width: 374px) {
+    .footer-nav {
+      flex-direction: column;
+      gap: var(--space-md);
+    }
   }
 </style>

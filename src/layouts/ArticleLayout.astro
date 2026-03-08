@@ -329,10 +329,6 @@ const canonicalUrl = `${siteConfig.domain}/${category}/${slug}/`;
   }
 
   /* Wirecutter variant overrides */
-  .wc-article .article-header {
-    max-width: 720px;
-  }
-
   .wc-updated-date {
     font-size: 0.875rem;
     color: var(--color-text-muted);
@@ -342,10 +338,17 @@ const canonicalUrl = `${siteConfig.domain}/${category}/${slug}/`;
   .wc-single-col {
     grid-template-columns: 1fr !important;
     max-width: 720px;
+    margin: 0 auto;
   }
 
   .wc-single-col .article-main {
     max-width: 720px;
+  }
+
+  .wc-article .article-header {
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .wc-author-inline {
@@ -383,6 +386,20 @@ const canonicalUrl = `${siteConfig.domain}/${category}/${slug}/`;
     font-size: 0.8125rem;
     color: var(--color-text-muted);
     margin: 0;
+  }
+
+  /* WC social share: keep inline (not fixed sidebar) and center above content */
+  .wc-article :global(.social-share) {
+    position: static;
+    transform: none;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: var(--space-md) 0;
+    margin-bottom: var(--space-md);
+    border-top: none;
+    border-bottom: 1px solid var(--color-divider);
   }
 
   /* Wirecutter blockquote / pull quote: brass left border */

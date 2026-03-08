@@ -330,6 +330,7 @@ const isWirecutter = siteConfig.variant === 'wirecutter';
     font-weight: 600;
     font-size: 0.875rem;
     text-transform: none;
+    white-space: nowrap;
   }
 
   .subscribe-cta {
@@ -368,9 +369,47 @@ const isWirecutter = siteConfig.variant === 'wirecutter';
     }
   }
 
+  /* WC variant: 6 categories won't fit at tablet, keep hamburger until 1025px */
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .wc-header .main-nav {
+      display: none;
+    }
+
+    .wc-header .hamburger {
+      display: flex;
+    }
+
+    .wc-header .subscribe-cta {
+      display: none;
+    }
+  }
+
   @media (min-width: 769px) {
     .subscribe-cta {
       display: inline-block;
+    }
+  }
+
+  /* WC variant: tighter nav at desktop to fit 6 categories */
+  @media (min-width: 1025px) {
+    .wc-header .nav-link {
+      padding: 0 0.625rem;
+      font-size: 0.8125rem;
+    }
+
+    .wc-header .logo-text {
+      font-size: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .wc-header .nav-link {
+      padding: 0 0.875rem;
+      font-size: 0.875rem;
+    }
+
+    .wc-header .logo-text {
+      font-size: 1.75rem;
     }
   }
 </style>
