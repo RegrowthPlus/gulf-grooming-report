@@ -37,7 +37,7 @@ Apply to slightly damp skin. This locks in moisture more effectively.
 
 **Step 3: Sunscreen.** This is not optional. The Gulf's UV index regularly exceeds 10. For context, dermatologists recommend sunscreen when the index is above 3.
 
-Use SPF 50, broad-spectrum (UVA + UVB protection). Look for formulas labeled "dry touch" or "mattifying" unless you want a greasy forehead by noon. Japanese and Korean sunscreens tend to have the best textures for humid climates. Biore UV Aqua Rich is the gold standard for a lightweight, non-greasy finish.
+Use [SPF 50, broad-spectrum](https://www.aad.org/public/everyday-care/sun-protection/sunscreen/how-to-select-sunscreen) (UVA + UVB protection). Look for formulas labeled "dry touch" or "mattifying" unless you want a greasy forehead by noon. Japanese and Korean sunscreens tend to have the best textures for humid climates. Biore UV Aqua Rich is the gold standard for a lightweight, non-greasy finish.
 
 **Step 4: Lip balm with SPF.** Your lips burn too. A quick swipe of SPF lip balm takes three seconds and prevents cracking and sun damage that shows up fast in this climate.
 
@@ -45,11 +45,11 @@ Use SPF 50, broad-spectrum (UVA + UVB protection). Look for formulas labeled "dr
 
 **Step 1: Double cleanse (if you wore sunscreen).** Use an oil-based cleanser first to dissolve sunscreen and sebum, then follow with your gel cleanser. This isn't excessive. Sunscreen is designed to resist water and sweat. A regular cleanser alone won't fully remove it.
 
-**Step 2: Treatment (optional).** If you're dealing with a specific issue like acne, hyperpigmentation, or premature aging, this is when to apply your active ingredients. Retinol (start low, 0.3%, twice a week) is the most evidence-backed anti-aging ingredient available. Niacinamide (5-10%) helps with oil control and barrier repair.
+**Step 2: Treatment (optional).** If you're dealing with a specific issue like acne, hyperpigmentation, or premature aging, this is when to apply your active ingredients. [Retinol](https://www.aad.org/public/everyday-care/skin-care-basics/anti-aging/retinoid-dermatologist-tips) (start low, 0.3%, twice a week) is the most evidence-backed anti-aging ingredient available. Niacinamide (5-10%) helps with oil control and barrier repair.
 
 Don't stack multiple actives. Pick one concern, address it, and move on once it's resolved.
 
-**Step 3: Night moisturiser.** You can go slightly heavier at night since you're sleeping in air conditioning. A ceramide-based moisturiser (CeraVe PM is a reliable choice) repairs the barrier damage from hard water and helps your skin recover overnight.
+**Step 3: Night moisturiser.** You can go slightly heavier at night since you're sleeping in air conditioning. A [ceramide-based moisturiser](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2843412/) (CeraVe PM is a reliable choice) repairs the barrier damage from hard water and helps your skin recover overnight.
 
 ## What most men get wrong
 
@@ -59,7 +59,7 @@ Don't stack multiple actives. Pick one concern, address it, and move on once it'
 
 **Using the same products you used back home.** That rich winter moisturiser from northern Europe is going to clog your pores here. That "gentle" body wash isn't chelating the minerals off your skin. Adapt your products to your environment.
 
-**Ignoring hard water damage.** Your skin reacts to hard water the same way your hair does. Mineral deposits disrupt the acid mantle, weaken the barrier, and can cause irritation, dryness, and breakouts that seem to have no cause. A shower filter helps. If that's not feasible, finishing your shower with a splash of filtered or bottled water on your face is a low-cost workaround.
+**Ignoring hard water damage.** Your skin reacts to hard water the same way your hair does. [Mineral deposits disrupt the acid mantle](https://pubmed.ncbi.nlm.nih.gov/28935338/), weaken the barrier, and can cause irritation, dryness, and breakouts that seem to have no cause. The same minerals are [damaging your hair](/gulf-specific/hair-loss-after-moving-to-gulf/) in parallel. A shower filter helps. If that's not feasible, finishing your shower with a splash of filtered or bottled water on your face is a low-cost workaround.
 
 ## The gym factor
 
@@ -75,4 +75,4 @@ A consistent skincare routine in this climate shows visible results in about fou
 
 The sunscreen benefit is invisible but arguably the most important. Sun damage accumulates silently. The men who look noticeably older than their age in the Gulf are almost always the ones who never wore sunscreen. You won't see the payoff for years, but your future self will appreciate it.
 
-Keep the routine simple. Keep it consistent. And stop using products designed for climates you no longer live in.
+Keep the routine simple. Keep it consistent. And stop using products designed for climates you no longer live in. If you need a [chelating shampoo](/products-we-tested/best-chelating-shampoos-men-tested/) to go with this routine, we've tested those too.

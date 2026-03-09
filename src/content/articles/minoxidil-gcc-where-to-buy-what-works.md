@@ -9,7 +9,7 @@ heroAlt: "Minoxidil bottle on a bathroom counter with grooming supplies"
 readingTime: 10
 tags: ["minoxidil", "hair loss", "GCC", "treatment"]
 featured: true
-hasAffiliateLinks: false
+hasAffiliateLinks: true
 faqItems:
   - question: "Can I buy minoxidil without a prescription in the Gulf?"
     answer: "In most parts of the Gulf, minoxidil 5% topical solution is available over the counter at pharmacies. You do not typically need a prescription for the topical form. Oral minoxidil requires a prescription everywhere."
@@ -19,6 +19,12 @@ faqItems:
     answer: "Yes. Mineral buildup on the scalp can create a barrier that reduces absorption. Using a chelating shampoo once or twice a week before applying minoxidil can improve effectiveness."
 ---
 
+<div class="affiliate-disclosure">
+
+*This article contains affiliate links. See our [affiliate disclosure](/affiliate-disclosure/) for details.*
+
+</div>
+
 You moved to the Gulf, your hair started thinning, and someone told you to try minoxidil. Now you're standing in a pharmacy wondering which strength to buy, whether the generic is the same as the brand name, and whether this thing actually works or if you're about to spend six months rubbing liquid on your head for nothing.
 
 We've been there. Here's what you need to know.
@@ -27,9 +33,9 @@ We've been there. Here's what you need to know.
 
 Minoxidil is a vasodilator. It widens blood vessels near the hair follicle, increasing nutrient delivery and extending the growth phase of the hair cycle. It was originally developed as a blood pressure medication. Hair growth was a side effect that turned into a business.
 
-It doesn't block DHT. It doesn't fix the underlying cause of male pattern baldness. What it does is slow the process and, in many cases, regrow hair that has recently miniaturized. Think of it as buying time.
+It doesn't block DHT. It doesn't fix the [underlying cause of male pattern baldness](https://www.mayoclinic.org/diseases-conditions/hair-loss/symptoms-causes/syc-20372926). What it does is slow the process and, in many cases, regrow hair that has recently miniaturized. Think of it as buying time.
 
-The clinical evidence is solid. A 2002 study in the Journal of the American Academy of Dermatology found that 5% minoxidil produced significantly greater hair regrowth than 2% after 48 weeks. A 2014 meta-analysis confirmed it as one of the few topical treatments with consistent clinical backing.
+The clinical evidence is solid. A [2002 study in the Journal of the American Academy of Dermatology](https://pubmed.ncbi.nlm.nih.gov/12399760/) found that 5% minoxidil produced significantly greater hair regrowth than 2% after 48 weeks. A 2014 meta-analysis confirmed it as one of the few topical treatments with consistent clinical backing.
 
 ## Where to buy it in the Gulf
 
@@ -63,7 +69,7 @@ Here's something most minoxidil guides won't mention. The Gulf's hard water crea
 
 We tested this ourselves. Using a chelating shampoo twice a week before minoxidil application noticeably improved scalp condition and, subjectively, treatment response. There's no controlled study on this specific interaction yet, but the logic is straightforward: a clean scalp absorbs better than one coated in mineral residue.
 
-If you're spending money on minoxidil, spend the extra 40 AED on a decent chelating shampoo. It's the cheapest optimization you can make.
+If you're spending money on minoxidil, spend the extra 40 AED on a decent chelating shampoo like [Regrowth+](https://regrowthplus.com?utm_source=blog_006&utm_medium=editorial) or any of the [options we've tested](/products-we-tested/best-chelating-shampoos-men-tested/). It's the cheapest optimization you can make.
 
 ## Realistic expectations
 
@@ -77,4 +83,4 @@ About 40% of men see moderate regrowth. Another 40% see maintenance of existing 
 
 Minoxidil is one of the only hair loss treatments with decades of clinical evidence behind it. It's accessible, affordable in the Gulf, and the side effects are mild for most men. The hard water factor makes proper scalp preparation more important here than in softer-water regions.
 
-Start with 5% foam if you can find it. Use a chelating shampoo to keep your scalp clear. Give it six months before judging results. And be honest with yourself about whether you'll stick with the routine long-term, because this isn't a one-time fix.
+Start with 5% foam if you can find it. Use a chelating shampoo to keep your scalp clear. Give it six months before judging results. And be honest with yourself about whether you'll stick with the routine long-term, because this isn't a one-time fix. If you're still deciding between treatments, our [finasteride vs minoxidil comparison](/hair-loss-thinning/finasteride-vs-minoxidil-gulf-men/) covers the trade-offs.

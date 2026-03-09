@@ -19,7 +19,13 @@ faqItems:
     answer: "Chelating shampoo does not directly treat hair loss, but removing mineral buildup creates a healthier scalp environment that supports normal growth and improves the absorption of topical treatments like minoxidil."
 ---
 
-If you live in the Gulf and you're not using a chelating shampoo, your regular shampoo is fighting a losing battle. Hard water minerals react with standard surfactants, reducing their cleaning power and leaving a residue that accumulates over weeks. That residue makes your hair look dull, feel stiff, and creates an environment where your scalp can't function properly.
+<div class="affiliate-disclosure">
+
+*This article contains affiliate links. See our [affiliate disclosure](/affiliate-disclosure/) for details.*
+
+</div>
+
+If you live in the Gulf and you're not using a chelating shampoo, your regular shampoo is fighting a losing battle. [Hard water minerals react with standard surfactants](https://pubmed.ncbi.nlm.nih.gov/24688579/), reducing their cleaning power and leaving a residue that accumulates over weeks. That residue makes your hair look dull, feel stiff, and creates an environment where your scalp can't function properly. If you've noticed your [hair getting worse since moving here](/gulf-specific/hair-loss-after-moving-to-gulf/), this is one of the main reasons.
 
 We tested seven chelating shampoos over three months in Gulf tap water (TDS reading: 420 ppm at our test location). Here's what actually works.
 
@@ -35,7 +41,7 @@ No brand sent us free products. Everything was purchased at retail price.
 
 The active chelating ingredient matters more than the brand name. Look for one of these on the ingredients list:
 
-**EDTA (Ethylenediaminetetraacetic acid)** is the most common chelating agent. It binds calcium, magnesium, and iron effectively. Most mainstream chelating shampoos use disodium EDTA or tetrasodium EDTA.
+**EDTA (Ethylenediaminetetraacetic acid)** is the most common [chelating agent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5871243/). It binds calcium, magnesium, and iron effectively. Most mainstream chelating shampoos use disodium EDTA or tetrasodium EDTA.
 
 **Phytic acid** is a plant-derived chelator. It's gentler than EDTA and works well for regular use. If your scalp is sensitive, look for shampoos that use phytic acid as the primary chelator.
 
@@ -87,8 +93,8 @@ Use your chelating shampoo once or twice a week. On other days, use a gentle sul
 
 ## What chelating won't fix
 
-Chelating shampoo removes surface mineral deposits. It won't reverse genetic hair loss, fix follicle miniaturization, or regrow hair. Think of it as maintenance, not treatment.
+Chelating shampoo removes surface mineral deposits. It won't reverse [genetic hair loss](https://www.mayoclinic.org/diseases-conditions/hair-loss/symptoms-causes/syc-20372926), fix follicle miniaturization, or regrow hair. Think of it as maintenance, not treatment.
 
-What it does do is create the foundation for other treatments to work better. Minoxidil absorbs more effectively on a chelated scalp. Regular shampoos actually clean properly when they're not fighting mineral interference. Your hair looks and feels better because it's no longer coated in calcium carbonate.
+What it does do is create the foundation for other treatments to work better. [Minoxidil](/hair-loss-thinning/minoxidil-gcc-where-to-buy-what-works/) absorbs more effectively on a chelated scalp. Regular shampoos actually clean properly when they're not fighting mineral interference. Your hair looks and feels better because it's no longer coated in calcium carbonate.
 
-If you live in the Gulf and you're not chelating, you're making everything else in your grooming routine work harder than it needs to.
+We've also been testing [Regrowth+](https://regrowthplus.com?utm_source=blog_006&utm_medium=editorial), a chelating shampoo formulated specifically for hard water conditions, and it holds up well against the picks above. If you live in the Gulf and you're not chelating, you're making everything else in your [grooming routine](/grooming-routines/mens-skincare-routine-extreme-heat/) work harder than it needs to.
