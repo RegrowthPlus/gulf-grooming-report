@@ -1,26 +1,16 @@
 ---
 title: "Minoxidil in the GCC: Where to Buy, What Strength, and Does It Work"
-excerpt: "We tested minoxidil availability across the Gulf and examined what actually works. Here's what you need to know about buying and using it effectively in the region."
-author: Tariq Al-Rashid
-authorTitle: Health and Wellness Writer
-date: "Mar 10, 2026"
-readTime: 9 min
-views: 0
-comments: 0
-category: Hair Loss & Thinning
-heroImage: "/assets/images/minoxidil-gcc-buy-strength-effectiveness-hero.webp"
+description: "We tested minoxidil availability across the Gulf and examined what actually works. Here's what you need to know about buying and using it in the region."
+category: "hair-loss-thinning"
+author: "tariq-al-rashid"
+publishedDate: 2026-03-10
+heroImage: "/images/articles/minoxidil-gcc-buy-strength-effectiveness-hero.webp"
 heroAlt: "Minoxidil foam and solution bottles on pharmacy counter with prescription pad in Gulf pharmacy setting"
+readingTime: 9
+tags: ["minoxidil", "hair loss", "GCC", "hard water"]
 featured: true
-datePublished: "2026-03-01"
-dateModified: "2026-03-01"
-images:
-  - src: "/assets/images/minoxidil-gcc-absorption-scalp-diagram.webp"
-    alt: "Scientific diagram showing minoxidil absorption through scalp layers with and without mineral buildup barrier"
-    caption: "Mineral deposits from hard water create a physical barrier that reduces minoxidil absorption into hair follicles"
-  - src: "/assets/images/minoxidil-gcc-application-timeline-chart.webp"
-    alt: "Timeline chart showing realistic minoxidil results progression from month 1 to month 12 with clinical photography examples"
-    caption: "Visible results from minoxidil typically appear between months 4-6, with peak improvement at 12 months of consistent use"
-faqs:
+hasAffiliateLinks: true
+faqItems:
   - question: "Can I buy minoxidil without a prescription in the GCC?"
     answer: "Yes, minoxidil is available over the counter at most pharmacies across the Gulf region. You don't need a prescription for either the 2% or 5% concentration. Major chains like Boots, Life Pharmacy, and Aster Pharmacy stock it consistently. However, availability of specific brands or formulations (foam vs. solution) can vary by location, so call ahead if you're looking for a particular product."
   - question: "How long does it take to see results from minoxidil?"
@@ -61,7 +51,7 @@ Online options exist but come with risks. We found genuine products on Noon and 
 
 Price range: expect to pay 80-120 AED for a one-month supply of 5% solution, or 120-180 AED for foam. Generic versions (minoxidil without brand names) run 20-30% cheaper and contain the same active ingredient. We tested both branded and generic formulations and found no difference in effectiveness.
 
-![Scientific diagram showing minoxidil absorption through scalp layers with and without mineral buildup barrier](/assets/images/minoxidil-gcc-absorption-scalp-diagram.webp)
+![Scientific diagram showing minoxidil absorption through scalp layers with and without mineral buildup barrier](/images/articles/minoxidil-gcc-absorption-scalp-diagram.webp)
 *Mineral deposits from hard water create a physical barrier that reduces minoxidil absorption into hair follicles*
 
 ## What Strength Should You Use?
@@ -84,7 +74,7 @@ A chelating shampoo like Regrowth+ removes these mineral deposits by binding to 
 
 The protocol that worked: chelating shampoo three times per week, regular shampoo on other days, minoxidil applied to completely dry scalp twice daily. Don't apply minoxidil to a damp scalp, it dilutes the concentration and reduces effectiveness.
 
-![Timeline chart showing realistic minoxidil results progression from month 1 to month 12 with clinical photography examples](/assets/images/minoxidil-gcc-application-timeline-chart.webp)
+![Timeline chart showing realistic minoxidil results progression from month 1 to month 12 with clinical photography examples](/images/articles/minoxidil-gcc-application-timeline-chart.webp)
 *Visible results from minoxidil typically appear between months 4-6, with peak improvement at 12 months of consistent use*
 
 ## How to Use Minoxidil Correctly
