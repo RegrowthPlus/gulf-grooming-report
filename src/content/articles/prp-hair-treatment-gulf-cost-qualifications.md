@@ -1,5 +1,5 @@
 ---
-title: "PRP Hair Treatment: What It Costs in the Gulf, Who Qualifies, and What to Expect"
+title: "PRP Hair Treatment: Gulf Costs, Who Qualifies, What to Expect"
 description: "We researched PRP costs across Gulf clinics, reviewed qualification criteria, and spoke with practitioners about realistic timelines. Here's what you need to..."
 category: "hair-loss-thinning"
 author: "tariq-al-rashid"
